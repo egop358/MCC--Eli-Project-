@@ -7,7 +7,7 @@ def OnInit():
 	print('')
 	print('-----------------------------------------')
 	print('')
-	print('AKAI MPK MINI MK3 MIDI Script by Eli')
+	print('AKAI MPK MINI MK3 MIDI Script by Eli Mercado')
 	print('')
 	print('V1')
 	print('')
