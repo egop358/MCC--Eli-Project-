@@ -7,17 +7,10 @@
 # IMPORT LIBRARIES
 import transport
 import midi
-import plugins
 
 
 # SET VARIABLES
 Transport_START = 20
-Transport_STOP = 21
-Transport_RECORD = 22
-Transport_Loop = 16
-Transport_BACK = 17
-Transport_FORWARD = 18
-Channels_setchannel = 28
 
 
 def OnMidiMsg(event):
